@@ -1,0 +1,34 @@
+/* 
+tipografia :  "Lato", sans-serif;
+*/
+
+
+*{
+  box-sizing: border-box;
+    margin: 0;
+    padding: 0;  
+}
+
+body{
+    background-image: url('/img/bg-2.png');
+    
+    font-family: "lato";
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+ul{
+    padding: 0;
+}
+
+h2{
+    font-weight: 900;
+}
